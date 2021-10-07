@@ -1,0 +1,16 @@
+{
+	"name": "Amunets Dungeon Randomizer - v0.1.1",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "AmunetDungeonRandomizer",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}
