@@ -1,16 +1,18 @@
 {
-	"name": "Amunets Dungeon Randomizer - v0.1.1",
-	"description": "",
+	"name": "Amunets Dungeon Randomizer - v0.1.2",
+	"description": "Hi folks!",
 	"changeNote": "",
-	"author": "",
-	"authorUrl": "",
+	"author": "LilMissHentai",
+	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 1,
-	"versionBuild": 1,
+	"versionBuild": 2,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 3,
 	"folderName": "AmunetDungeonRandomizer",
-	"revisionNumber": 326329,
-	"snapshotId": 31198
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
 }
